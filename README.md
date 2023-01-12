@@ -1,2 +1,1 @@
-# prepCourse-Henry
-este es un repositorio de prueba del modulo 2 del precurso de henry antes del examen
+este es un proyecto previo al examen de admision a henry y el primer paso para convertirme en un desarrollador 
